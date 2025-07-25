@@ -1,36 +1,36 @@
 
-# 🚀 DocuFlex – AI-Powered Document Management System
+#  DocuFlex – AI-Powered Document Management System
 
 **DocuFlex** is a cutting-edge, self-hosted **Document Management System (DMS)** built with **Next.js** and **Firebase Studio**. Designed for modern teams and organizations, it provides secure, intuitive file management enhanced with powerful **AI capabilities**, including **semantic search** and **video generation**.
 
 ---
 
-## 🔥 Key Features
+##  Key Features
 
-- 📁 **File & Folder Management**  
+-  **File & Folder Management**  
   Upload, organize, rename, and delete files with a user-friendly interface.
 
-- 🔐 **Advanced Access Control**  
+-  **Advanced Access Control**  
   Granular permission control at user and department levels.
 
-- 👥 **User Management**  
+-  **User Management**  
   Admin panel to manage user roles, credentials, and access levels.
 
-- 🤖 **AI-Powered Semantic Search**  
+-  **AI-Powered Semantic Search**  
   Search beyond keywords—get results based on meaning and intent.
 
-- 🎬 **AI Video Generation**  
+-  **AI Video Generation**  
   Generate videos directly from text prompts using Google Gemini.
 
-- 👀 **Instant File Previews**  
+-  **Instant File Previews**  
   Preview PDFs, Office docs, images, and more—no downloads needed.
 
-- 🎨 **Customizable UI & Theming**  
+-  **Customizable UI & Theming**  
   Built with **ShadCN UI** and **Tailwind CSS**. Light/Dark mode ready.
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 | Layer          | Technology                                      |
 |----------------|--------------------------------------------------|
@@ -42,18 +42,18 @@
 
 ---
 
-## 🛠️ Getting Started
+##  Getting Started
 
 Follow the steps below to set up **DocuFlex** locally for development and testing.
 
-### ✅ Prerequisites
+###  Prerequisites
 
 - **Node.js v18 or higher**  
   Download from [nodejs.org](https://nodejs.org/)
 
 ---
 
-### ⚙️ Step 1: Configure Environment Variables
+###  Step 1: Configure Environment Variables
 
 1. Get your **Gemini API key** from [Google AI Studio](https://aistudio.google.com/app/apikey).
 2. Create a `.env` file in the root directory of the project.
@@ -65,7 +65,7 @@ Follow the steps below to set up **DocuFlex** locally for development and testin
 
 ---
 
-### 📦 Step 2: Install Dependencies
+###  Step 2: Install Dependencies
 
 Open your terminal in the project root and run:
 
@@ -75,7 +75,7 @@ npm install
 
 ---
 
-### 🚀 Step 3: Run the Development Server
+###  Step 3: Run the Development Server
 
 Once installed, start the development server:
 
@@ -94,7 +94,7 @@ Visit the app in your browser at:
 
 ---
 
-## 📜 Available NPM Commands
+##  Available NPM Commands
 
 | Script             | Description                              |
 |--------------------|------------------------------------------|
@@ -106,7 +106,7 @@ Visit the app in your browser at:
 
 ---
 
-## 🧩 Future Enhancements (Roadmap)
+##  Future Enhancements (Roadmap)
 
 - 🔎 OCR and document text extraction  
 - 📁 Drag-and-drop folder upload  
@@ -115,13 +115,13 @@ Visit the app in your browser at:
 
 ---
 
-## 👨‍💻 Contributing
+##  Contributing
 
 We welcome contributions! Please fork the repo, submit pull requests, and help improve **DocuFlex**.
 
 ---
 
-## ⚖️ License
+##  License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
